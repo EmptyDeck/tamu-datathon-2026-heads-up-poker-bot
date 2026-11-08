@@ -1,4 +1,6 @@
-# EquityEdge (DeckHunters)
+# TAMU Datathon 2026 Heads Up Poker Bot: EquityEdge (DeckHunters)
+
+Heads-up Short Deck 5-card Pot-Limit Omaha (PLO5) bot for the TAMU Datathon 2026 Heads Up challenge, built on the official heads-up-bundle. Keywords: tamu datathon 2026, heads up, heads-up-bundle, short deck omaha bot, plo bot short deck, datathon poker.
 
 Equity + pot odds bot for heads-up short deck PLO5. Preflop lookup table, Monte Carlo equity postflop, pot-odds calls. v3 coming (better sizing).
 
